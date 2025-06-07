@@ -1,0 +1,16 @@
+{
+  "output_directory": "output_directory",
+  "proxy_url": "http://user:password@host:port",
+  "audio_quality": "320k",
+  "log_level": "INFO",
+  "skip_downloaded": true,
+  "download_start_index": null,
+  "download_end_index": null,
+  "max_downloads": null,
+  "output_filename_template": "%(playlist_index)s - %(title)s.%(ext)s",
+  "embed_thumbnail": false,
+  "add_metadata": true,
+  "sleep_interval_between_videos": 0,
+  "force_overwrites": false,
+  "display_progress_bar": true
+}
